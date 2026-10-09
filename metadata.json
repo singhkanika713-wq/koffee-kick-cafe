@@ -1,0 +1,6 @@
+{
+  "name": "Koffee Kick — The Live Brew Experience | Munshipulia, Lucknow",
+  "description": "Casual, cozy cafe in Mathur Market, Munshipulia Chouraha, Indira Nagar, Lucknow. Famous for ₹99 thick cold coffee, kulhad chai, burgers & grilled sandwiches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
